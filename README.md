@@ -2,6 +2,7 @@
 
 Reports Current Weather Condition by accessing Geo Location , provides 7-day forecast information
 and hourly forecast for next 24 hours.(Works on Android and IOS )
+TechStack - used Flutter to build this application
 
 ## Getting Started
 
